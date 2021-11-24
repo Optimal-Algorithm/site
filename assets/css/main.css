@@ -3102,6 +3102,10 @@ input, select, textarea {
 
 		@media screen and (max-width: 1152px) {
 
+			.intro header div img {
+				left: -10px !important;
+			}
+
 			.gallery a img {
 				height: 20rem;
 			}
