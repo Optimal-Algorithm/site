@@ -3106,6 +3106,10 @@ input, select, textarea {
 				left: -10px !important;
 			}
 
+			footer, footer h1, footer h2, footer h3, footer a {
+				color: black;
+			}
+
 			.gallery a img {
 				height: 20rem;
 			}
